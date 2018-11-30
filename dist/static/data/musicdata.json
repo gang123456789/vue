@@ -2,37 +2,37 @@
   "musicData": [{
     "title": "易燃易爆炸",
     "author": "冯提莫",
-    "src": "/static/music/fy.mp3",
+    "src": "./static/music/fy.mp3",
     "musicImgSrc": "http://omratag7g.bkt.clouddn.com/%E6%88%91%E8%A6%81%E4%BD%A0.jpg",
     "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
   }, {
     "title": "隐形的翅膀",
     "author": "张韶涵",
-    "src": "/static/music/cf.mp3",
+    "src": "./static/music/cf.mp3",
     "musicImgSrc": "http://p4.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
     "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
   }, {
     "title": "小永远",
     "author": "冯提莫",
-    "src": "/static/music/fx.mp3",
+    "src": "./static/music/fx.mp3",
     "musicImgSrc": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1407964657,2382644691&fm=58",
     "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
   }, {
     "title": "幸亏没生在古代",
     "author": "曾昭纬",
-    "src": "/static/music/zx.mp3",
+    "src": "./static/music/zx.mp3",
     "musicImgSrc": "http://imge.kugou.com/stdmusic/240/20131009/20131009143610650448.jpg",
     "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
   }, {
     "title": "说散就散",
     "author": "冯提莫",
-     "src": "/static/music/fs.mp3",
+     "src": "./static/music/fs.mp3",
     "musicImgSrc": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3825361386,3954933951&fm=58",
     "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
   }, {
     "title": "刚好遇见你",
     "author": "李玉刚",
-    "src": "/static/music/ly.mp3",
+    "src": "./static/music/ly.mp3",
     "musicImgSrc": "http://p4.music.126.net/lDyytkTaPYVTb1Vpide6AA==/18591642115187138.jpg",
     "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
   }]
